@@ -34,7 +34,7 @@ def index():
                                 <font size="5" color="#0000FF">Обычного Bootstrap</font>
                                 </div>
                                 <div class="p-3 mb-2 bg-danger">
-                                <font size="5" color="#008000">Проверяйте!</font>
+                                <font size="5" color="#008000">Проверяйте! если что пишите</font>
                                 </div>
                               </body>
                             </html>"""
